@@ -9,7 +9,7 @@ Iniciando o projeto
 ° Clone o projeto ou baixe ele
 https://github.com/GabrielKLopes/project-node-school.git
 
-° Inicializando o projeto
+° Inicializando o projeto:
 Caminhe até a pasta "server" e utilize o comando "npm install", isso fará com que venha as dependencia do node_modules
 
 ° Após isso, basta utilizar o comando npm run start-dev ou npm start para iniciliazar o servidor
