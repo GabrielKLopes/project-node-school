@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "643f47eebefe56a47edbc98a"
+  },
+  "payment": "R$ 3.500,00",
+  "occupation": "Desenvolvedor front-end",
+  "document": "12345678910",
+  "nationalId": "123654897",
+  "birthday": "10/10/2001",
+  "invoice": 10,
+  "passwordCard": 132629,
+  "address": "Desembargador James Portugal",
+  "number": 1165,
+  "ZipCode": "83025-450",
+  "score": 800,
+  "negated": "sim",
+  "approved": true,
+  "createdAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f4855befe56a47edbc996"
+  },
+  "payment": "R$ 2.000",
+  "occupation": "Analista de dados",
+  "document": "98765432110",
+  "nationalId": "098765432",
+  "birthday": "10/10/1990",
+  "invoice": 10,
+  "passwordCard": 132629,
+  "address": "Tenente Djalma",
+  "number": 1165,
+  "ZipCode": "83025-450",
+  "score": 300,
+  "negated": "sim",
+  "approved": false,
+  "createdAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f4882befe56a47edbc999"
+  },
+  "payment": "R$ 5.000,00",
+  "occupation": "Analista de dados",
+  "document": "67854329810",
+  "nationalId": "543786153",
+  "birthday": "10/10/1980",
+  "invoice": 10,
+  "passwordCard": 132629,
+  "address": "Djalma",
+  "number": 1165,
+  "ZipCode": "83025-450",
+  "score": 300,
+  "negated": "não",
+  "approved": false,
+  "createdAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f48b0befe56a47edbc99c"
+  },
+  "payment": "R$ 25.000,00",
+  "occupation": "Desembargador",
+  "document": "99988877733",
+  "nationalId": "543786153",
+  "birthday": "10/10/1970",
+  "invoice": 10,
+  "passwordCard": 132629,
+  "address": "Pelé",
+  "number": 1165,
+  "ZipCode": "83025-450",
+  "score": 1000,
+  "negated": "não",
+  "approved": true,
+  "createdAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T01:42:33.431Z"
+  },
+  "__v": 0
+}]

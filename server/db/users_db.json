@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "643f46860ab224e8e8d18255"
+  },
+  "name": "Admin",
+  "lastName": "Lopes",
+  "document": "33344455510",
+  "password": "$2b$10$DI9B0VXsU5WTa.h4EDujieT5nO5N54FNOBm16SyexFSyIZSC7r2O.",
+  "createdAt": {
+    "$date": "2023-04-19T01:39:57.154Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-19T01:39:57.154Z"
+  },
+  "__v": 0
+}]
