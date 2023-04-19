@@ -1,6 +1,6 @@
 Projeto Final School Node MJV Academy
 
-Realizado por: Gabriel lOPES
+Realizado por: Gabriel Lopes
 
 
 
